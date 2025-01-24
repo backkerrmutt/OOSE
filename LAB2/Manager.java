@@ -37,8 +37,4 @@ class Manager extends Person {
     public void setMnIsTrue(boolean mnIsTrue) {
         MnIsTrue = mnIsTrue;
     }
-
-    
-
-    
 }
